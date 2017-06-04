@@ -1,0 +1,88 @@
+<?php
+session_start();
+?>
+<html><head>
+		<title>Patient login</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet3.css">
+	</head>
+
+	<body class="studentbody">
+
+		
+
+		<nav class="nav-main" style="
+    height: 70px;
+    width: 1366px;
+    color:white;
+">
+			<div class="logo"><img src="11.jpg" style="
+    width: 70px;
+    opacity: 1;
+"></div>
+			<ul>
+				<li>
+					<a href="6.php" class="nav-item">HOME</a>
+				</li>
+				<li>
+					<a href="admin.php" class="nav-item">ADMIN</a>
+				</li>
+				<li>
+					<a href="suslogin.php" class="nav-item">STUDENT</a>
+				</li>
+				<li>
+					<a href="16.php" class="nav-item">REGISTER</a>
+				</li>
+			</ul>
+		</nav>
+
+		<div align="center"><img src="yonetici-ekrani.jpg" style="
+    height: 250px;
+"></div>
+<div align="center"><h1><font color="#fe2e64">Patient Login</font></h1></div>
+		<form method="post">
+		<table align="center" border="5" width="100" height="100" bgcolor="#fe2e64">
+      <tr><td>Username:</td>
+      <td><input type="text" name="username"></td>
+    </tr>
+    <tr>
+      <td>Password:</td>
+      <td><input type="password" name="password"></td>
+    </tr>
+			
+		</table>
+		<div align="center"><input type="submit" name="submit" value="login" class="loginbutton"></div>
+	</form>
+
+	
+		<?php
+		mysql_connect('localhost','root','');
+		mysql_select_db('reg_database');
+		if(isset($_POST['submit']))
+		{
+
+			$username = $_POST['username'];
+			$password = $_POST['password'];
+			if($username!=''&&$password!='')
+			{	
+   				$query=mysql_query("select * from admin where username='$username' and password='$password'");
+
+   				
+
+   				if(mysql_num_rows($query)>0)
+   				{
+   					$_SESSION['username'] = $username;
+
+   					header('location: adminpanel.php');
+  				}
+  				else{
+  					echo "<script>alert('Incorrect username or password!!!!!!')</script>";
+  				} 
+  			}
+  			else{
+  				echo "<script>alert('Please fill all fields!!!!!!!!!!')</script>";
+  			}
+  		}		
+	?>
+	
+
+</body></html>

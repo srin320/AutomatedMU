@@ -1,0 +1,395 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	CMC Vellore
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/foundation.min.css" rel="stylesheet" type="text/css" /><link href="css/superfish.css" rel="stylesheet" type="text/css" /><link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="css/ie-fixes.css" type="text/css" />
+    <![endif]-->
+    
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            height: 25px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="RadStyleSheetManager1_TSSM" id="RadStyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg0OTUwMzMxMg9kFgJmD2QWAgIDD2QWBAIDDw8WAh4HVmlzaWJsZWhkZAIED2QWAgIBD2QWCgIBDw8WAh4EVGV4dAUNMTcgTWFyY2ggMjAxNmRkAgUPDxYCHhFVc2VTdWJtaXRCZWhhdmlvcmhkZAIHDw8WAh8CaGRkAgkPDxYCHwJoZGQCCw8PFgIfAmhkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUUY3RsMDAkTWFpbiRidG5DbG9zZU07ZRiEn47acqOwlG1v+X0hInCPOoNlN4Pe4s4LRV0Xfg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/webapt/WebResource.axd?d=F97Hb7UEGe-2xIw3XEVjQo_f7O_Zjy6tNC6F1dAhZMl3xapgT2wFWUxVc3-_k7_UrinUVWwPeVGQ82gBZVJ4WRSCcsyzvtUKIgYZ0VIavaM1&amp;t=635803002500000000" type="text/javascript"></script>
+
+
+<script src="/webapt/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60501.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-GB%3a5c09f731-4796-4c62-944b-da90522e2541%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2014.2.724/Common/Core.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2014.2.724/Common/jQuery.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2014.2.724/Common/jQueryInclude.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2014.2.724/Ajax/Ajax.js" type="text/javascript"></script>
+<script src="/webapt/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60501.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-GB%3a5c09f731-4796-4c62-944b-da90522e2541%3a923aa3cc%3a853c2e0b%3a46f97eb1%3a782b16ab%3a50114f04%3af48dface%3a1e088fb%3a52c703eb%3af9ae838a%3ad754780e%3a28a7831e" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5765EBA4" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAcOkfitU2VMuxuQyDwFxWMxorf7rtq8LN7OULMENpT0QXWBen2nq2jq1dT2vQ/s0i+9izOPRz3Zhpwdupia0uG6VwxhbJwOPw5G/MAaJ+tA7y+NP1HNzCxfuH4RBX1JWmgphOQ/CrJ9vVrjijJw3ncS+e54BZSNGGpp+KwUhIsKo1+NVx8hsjTq0ABn1aWVn1Y=" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$RadScriptManager1', 'form1', ['tctl00$Main$ctl00$Main$RadAjaxPanel1Panel',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    <script type="text/javascript">
+        //Put your JavaScript code here.
+    </script>
+   
+    <div class="row outterWrapper">
+        <div class="columns large-18" style="background-image: url('head1.png');
+            background-color: #215179;">
+            <div class="row header-row" style="padding-bottom: 10px;">
+                <img id="imgheaderBG" src="12.jpg" height="100" width="100"/>
+                
+            </div>
+            
+        </div>
+        
+        <div class="columns large-12" style="background-position: center center; min-height: 500px; background-image: url('madhu.jpg'); background-repeat: no-repeat;background-color: #F9FDFF">
+            <div class="row service-box-row">
+                <div class="columns large-12 service-box-inner">
+                     
+                    <div class="row">
+                        <div class="columns large-12 service-img pr20"> 
+                            
+    <div class="RadAjaxPanel" id="ctl00_Main_ctl00_Main_RadAjaxPanel1Panel">
+	<div id="ctl00_Main_RadAjaxPanel1" style="width:100%;">
+		<!-- 2014.2.724.40 -->
+        <div id="about" style="padding: 5px 15px;">
+            <div class="container">
+                <div class="about-content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="heading">
+                                <table class="style1">
+                                    <tr>
+                                        <td>
+                                            <h2>
+                                                Welcome to NIT DGP Online Booking for OP appointments
+                                            </h2>
+                                        </td>
+                                        <td align="right">
+                                            <span id="Main_lblDate" class="blink_text">17 March 2016</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="description">
+                                <h4>
+                                    Our Out Patient days are <i style="color: #FF3300">Monday</i> to <i style="color: #FF3300">
+                                        Saturday</i>.</h4>
+                                <table class="style1" border="1" style="border: thin solid #000000; border-collapse: collapse;">
+                                    <tr>
+                                        <td colspan="2" align="center" style="border: thin solid #000000;">
+                                            <img id="Main_imgBanner" src="slide1.jpg" style="width:100%;" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="50%" style="border: thin solid #000000;">
+                                            <b style="color: #FF3300; font-size: medium; font-family: 'Arno Pro Subhead';">New Patient
+                                                (First time to MU)</b>
+                                        </td>
+                                        <td align="center" width="50%" style="border: thin solid #000000;">
+                                            <b style="color: #FF3300; font-size: medium; font-family: 'Arno Pro Subhead';">Already
+                                                Visited CMC?<br />
+                                                Make an Appointment with your MU  Number</b>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <a href="project1.html"><img src="button.png" width="300" height="50" height="20"></a>
+                                            
+                                        </td>
+                                        <td align="center" valign="middle">
+                                            <a href="project.html"><img src="button1.png" width="300" height="50" height="20"></a> 
+                                            
+                                        </td>
+                                    </tr>
+                                    
+                                    
+                                    
+                                </table>
+                                <table class="style1" border="1" style="border: thin solid #000000;margin-top:4px;">
+                                    <tr>
+                                        <td align="center">
+                                           Follow us on :
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">
+                                            <img id="Main_imgChrisCard" src="fb.png" height="50" width="50" />
+                                            <img id="Main_imgHDFC" src="tweet.png" height="50" width="50" />
+                                            
+                                            <img id="Main_imgVisa" src="you.png" height="50" width="50" />
+                                        </td>
+                                    </tr>
+                                </table>
+                                <table class="style1" border="1" style="border: thin solid #000000;margin-top:4px;">
+                                    <tr>
+                                        <td align="center">
+                                            <b>Write to</b> : <a href="mailto:appointments@cmcvellore.ac.in" style="font-weight: bold">
+                                                appointments@cmcvellore.ac.in</a> <b>OR</b> Call Center : 0416 - 228 8000 /
+                                            307 8000
+                                        </td>
+                                    </tr>
+                                </table>
+                                <a id="Main_lnkFake" href="javascript:__doPostBack(&#39;ctl00$Main$lnkFake&#39;,&#39;&#39;)"></a>
+                                
+                                <div id="Main_pnlPopupM" class="modalPopup" style="display: none">
+			
+                                    <div class="header">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td align="center" width="90%">
+                                                    <span id="Main_lblTitle" style="font-size:Small;"></span>
+                                                </td>
+                                                <td align="right" width="50">
+                                                    <input type="image" name="ctl00$Main$btnCloseM" id="Main_btnCloseM" src="images/CloseButton.png" />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div class="style1">
+                                        <div id="Main_pnlNewPat" style="height:200px;overflow:auto;">
+				
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                    <td align="left" style="padding: 10px;" valign="middle">
+                                                        <p>
+                                                            A. You should not have any prior <b>Patient ID / Hosptial Number</b> in CMC Vellore.<br />
+                                                            B. You need to have <b>Indian Credit / Debit Card</b> to make the payment.<br />
+                                                            C. The appointment will be confirmed only after payment is received<br />
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+			</div>
+                                        <div id="Main_pnlRepeatPat" style="height:170px;overflow:auto;">
+				
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                    <td align="left" style="padding: 10px;" valign="middle">
+                                                        <p>
+                                                            A. You should have a <b>Patient ID / Hosptial Number</b> in CMC Vellore.<br />
+                                                            B. You need to have Indian Credit / Debit Card / CHRIS card issued by CMC Hospital
+                                                            to make the payment.<br />
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+			</div>
+                                        <div id="Main_pnlCallCenter" style="height:300px;overflow:auto;">
+				
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                    <td align="left" style="padding: 10px;" valign="middle">
+                                                        <p>
+                                                            A.Fill the form and submit. You will receive a confirmation number<br />
+                                                            B.Make payment with the confirmation number by calling 0416 – 2288000 or 0416 –
+                                                            3078000.
+                                                            <br />
+                                                            C. Alternatively, you may pay by Demand Draft:
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>1. The DD must be in favour of '<b>The Treasurer,
+                                                                CMC Vellore Association</b>' payable at Vellore
+                                                            <br />
+                                                            <span style="margin-left: 15px"></span>2. Send the DD along with a printout of the
+                                                            Confirmation number to the address given below<br />
+                                                            <b><span style="margin-left: 25px"></span>The Head
+                                                                <br />
+                                                                <span style="margin-left: 25px"></span>Outpatient Service
+                                                                <br />
+                                                                <span style="margin-left: 25px"></span>Christian Medical College, Vellore - 632004
+                                                                <br />
+                                                                <span style="margin-left: 25px"></span>Tamilnadu, India </b>
+                                                            <br />
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+			</div>
+                                        <div id="Main_pnlRepeatNew" style="height:400px;overflow:auto;">
+				
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                    <td align="left" style="padding: 10px;" valign="middle">
+                                                        <p>
+                                                            A.Contact our Call Centre directly (0416 – 2288000 or 0416 – 3078000) and make the
+                                                            payment.
+                                                            <br />
+                                                            B.OR Pay by Demand Draft: Please do this one month in advance of your desired date
+                                                            of appointment
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>1. Make a separate Demand Draft for every
+                                                            appointment you need booked<br />
+                                                            <span style="margin-left: 25px"></span>2. The Demand Draft should be made in favour
+                                                            of “<b>The Treasurer, CMC Vellore Association</b>” payable at Vellore Town Branch
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>3. Fill the <a href="http://clin.cmcvellore.ac.in/NewAppt/"
+                                                                style="font-weight: bold">Registration Form</a><br />
+                                                            <span style="margin-left: 25px"></span>4. Send them by post to the postal address
+                                                            given below<br />
+                                                            <b><span style="margin-left: 35px"></span>The Head
+                                                                <br />
+                                                                <span style="margin-left: 35px"></span>Outpatient Service
+                                                                <br />
+                                                                <span style="margin-left: 35px"></span>Christian Medical College, Vellore - 632004
+                                                                <br />
+                                                                <span style="margin-left: 35px"></span>Tamilnadu, India </b>
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>5. The appointment will be made only after
+                                                            receiving the DD and the completed Registration form.<br />
+                                                            <span style="margin-left: 25px"></span>6. Mention your contact telephone number
+                                                            so that the booking status can be intimated to you<br />
+                                                            C. For any further queries regarding appointments please mail to <a href="mailto:reception@cmcvellore.ac.in"
+                                                                style="font-weight: bold">reception@cmcvellore.ac.in</a><br />
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+			</div>
+                                        <div id="Main_pnlRepeatCallCenter" style="height:360px;overflow:auto;">
+				
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                    <td align="left" style="padding: 10px;" valign="middle">
+                                                        <p>
+                                                            A.Contact our Call Centre directly (0416 – 2288000 or 0416 – 3078000) and make the
+                                                            payment.
+                                                            <br />
+                                                            B.OR Pay by Demand Draft: Please do this one month in advance of your desired date
+                                                            of appointment
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>1. Make a separate Demand Draft for every
+                                                            appointment you need booked<br />
+                                                            <span style="margin-left: 25px"></span>2. The Demand Draft should be made in favour
+                                                            of “<b>The Treasurer, CMC Vellore Association</b>” payable at Vellore Town Branch
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>3. Fill the <a href="http://www.cmch-vellore.edu/pdf/sociological.pdf"
+                                                                style="font-weight: bold">Registration Form</a><br />
+                                                            <span style="margin-left: 25px"></span>4. Send them by post to the postal address
+                                                            given below<br />
+                                                            <b><span style="margin-left: 35px"></span>The Head
+                                                                <br />
+                                                                <span style="margin-left: 35px"></span>Outpatient Service
+                                                                <br />
+                                                                <span style="margin-left: 35px"></span>Christian Medical College, Vellore - 632004
+                                                                <br />
+                                                                <span style="margin-left: 35px"></span>Tamilnadu, India </b>
+                                                            <br />
+                                                            <span style="margin-left: 25px"></span>5. The appointment will be made only after
+                                                            receiving the DD and the completed Registration form.<br />
+                                                            <span style="margin-left: 25px"></span>6. Mention your contact telephone number
+                                                            so that the booking status can be intimated to you<br />
+                                                            C. For any further queries regarding appointments please mail to <a href="mailto:reception@cmcvellore.ac.in"
+                                                                style="font-weight: bold">reception@cmcvellore.ac.in</a><br />
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+			</div>
+                                    </div>
+                                
+		</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p>
+            <a class="loader" href="#inline_content"></a>
+        </p>
+    
+	</div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="columns footer-meta">
+            <div class="row">
+                <div class="columns large-12 footer-meta-inner">
+                    <div class="row">
+                        <div class="columns large-12">
+                            &copy; 2016. All rights reserved. <a href="http://www.nitdgp.ac.in/">
+                                NIT DGP.</a> Designed by: <a href="#">
+                                    KKR</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p>
+        <a class="loader" href="#inline_content"></a>
+    </p>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"Main_btnCloseM","PopupControlID":"Main_pnlPopupM","dynamicServicePath":"/webapt/Appointments.aspx","id":"Main_mpeM"}, null, null, $get("Main_lnkFake"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"","styles":[],"uniqueID":"ctl00$Main$RadAjaxPanel1"}, null, null, $get("ctl00_Main_RadAjaxPanel1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,4 @@
+<div class="field">
+<label class="main">Phone:</label>
+<input name="phone" type="text" placeholder="000-000-0000">
+<span class="error"></span> </div>

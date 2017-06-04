@@ -1,0 +1,50 @@
+<div id='cssmenu'>
+<ul>
+   <li class='active has-sub'><a href='6.php'><span>HOME</span></a></li>
+   
+
+
+<li class='active has-sub'><a href='#'><span>STUDENT</span></a>
+      <ul>
+         <li class='has-sub'><a href='suslogin.php'><span>Student's Login</span></a></li>
+                    <li class='has-sub'><a href='16.php'><span>Student's Sign Up</span></a></li>
+         
+</ul>
+</li>
+
+   <li class='active has-sub'><a href='admin.php'><span>ADMIN</span></a></li>
+   <li class='active has-sub'><a href='#'><span>Notice Board</span></a>
+      <ul>
+         <li class='has-sub'><a href='#'><span>Admission For First Year Students</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Provisional Result For Odd Semester</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Registratiolackn For Even Semester</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Student's Gymkhana Election Date</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Submission of CV  For 8th Semester</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Holiday List For 2016-2017</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Internship in Your College</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Open Elective For 5th,7th Semester</span></a></li>
+                    
+         
+</ul>
+</li>
+   <li class='active has-sub'><a href='#'><span>Contact</span></a>
+<ul>
+         <li class='has-sub'><a href='#'><span>Cell no: 033-220224</span></a></li>
+                    <li class='has-sub'><a href='#'><span>Mobile no: 9474005778</span></a></li>
+</ul>
+</li>
+<header>
+<div class="header">
+
+<div class="search">
+<form action="" method="get">
+<input type="text" name="q" value=""/>
+<input type="submit" name="q" value="search"/>
+</form>
+</div>
+
+<div class="clear"></div>
+</div>
+</header>
+</div>
+</div>
